@@ -1,0 +1,17 @@
+com\github\gfabri\portals\utils\Cuboid$CuboidIterator.class
+com\github\gfabri\portals\commands\PortalCommand.class
+com\github\gfabri\portals\utils\WorldGuardAPI.class
+com\github\gfabri\portals\Portals.class
+com\github\gfabri\portals\utils\CustomItem.class
+com\github\gfabri\portals\utils\Utils.class
+com\github\gfabri\portals\bungee\BungeeInstance.class
+com\github\gfabri\portals\portals\Portal.class
+com\github\gfabri\portals\utils\Cuboid$1.class
+com\github\gfabri\portals\utils\Cuboid.class
+com\github\gfabri\portals\ConfigHandler.class
+com\github\gfabri\portals\ConfigHandler$Configs.class
+com\github\gfabri\portals\portals\PortalManager.class
+com\github\gfabri\portals\utils\Cuboid$CuboidDirection.class
+com\github\gfabri\portals\portals\PortalListener.class
+com\github\gfabri\portals\commands\TeleportCommand.class
+com\github\gfabri\portals\events\PortalCreateEvent.class

@@ -1,0 +1,11 @@
+name: Portals
+version: '${project.version}'
+main: com.github.gfabri.portals.Portals
+authors: [ Fabri ]
+description: Portals Plugin
+api-version: 1.13
+softdepend:
+  - WorldGuard
+commands:
+  portal:
+  tpportal:

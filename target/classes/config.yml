@@ -1,0 +1,34 @@
+serverName: lobby
+
+PortalItem:
+  material: NETHER_STAR
+  material-data: 0
+  displayName: "&bPortal creator"
+  lore:
+    - '&7Left click to set target position'
+    - '&7Right click to set portal in your location'
+
+armor_stand:
+  in-pvp-zone:
+    material: "PAPER"
+    data: "201"
+  in-safe-zone:
+    material: "TORCH"
+    data: "201"
+
+portal-time: 15
+disable-portal-in-radius: 5
+
+MySQL:
+  username: "root"
+  password: "password"
+  database: "database"
+  port: 3306
+  ip: "localhost"
+    
+MESSAGES:
+  first-target: "&cFirst you need to mark the place where you are going"
+  location-set: "&eYou have marked the teleportation location"
+  target-set: "&eYou have updated the target location"
+  created: "&eYou have created a portal, it will disappear in &f15 &eseconds"
+  cantcreateportal: "&cYou can't build the portal here, there is a player nearby move away %blocks%."
